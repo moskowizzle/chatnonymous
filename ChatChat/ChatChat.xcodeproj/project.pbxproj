@@ -105,7 +105,6 @@
 			isa = PBXGroup;
 			children = (
 				4570C5E21D54FD11007946D9 /* ChatChat.entitlements */,
-				BA2E73071E4FA7F300B927DD /* GoogleService-Info.plist */,
 				45A0D8FF1D4BB5DD00F26729 /* Model */,
 				BB5355901BEF816500321277 /* Controller */,
 				BB5355921BEF818700321277 /* Layout */,
@@ -132,6 +131,7 @@
 				BB5355791BEF765800321277 /* AppDelegate.swift */,
 				459780D21D6465FB007BE66F /* UIImage+Gif.swift */,
 				BB5355851BEF765800321277 /* Info.plist */,
+				BA2E73071E4FA7F300B927DD /* GoogleService-Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
