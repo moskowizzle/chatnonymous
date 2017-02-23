@@ -171,7 +171,7 @@
                     <navigationItem key="navigationItem" id="udA-kz-mJV">
                         <nil key="title"/>
                         <view key="titleView" contentMode="scaleToFill" id="MPw-me-7YJ">
-                            <rect key="frame" x="113" y="6" width="150" height="33"/>
+                            <rect key="frame" x="112.5" y="5.5" width="150" height="33"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <subviews>
                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chatnonymous" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZeF-X5-5So">
